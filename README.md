@@ -8,4 +8,6 @@ The only libraries you'll have to download are Pandas and Numpy. Please use the 
 - [Dependencies](https://github.com/k-anisha/SDPD-Police-Stops-Analysis-by-Region/blob/main/dependencies.txt)
 - [Project Structure](https://github.com/k-anisha/SDPD-Police-Stops-Analysis-by-Region/blob/main/SDPD_Analysis.ipynb)
 - [Analysis](Analysis.pdf)
+    - If the page won't load, view it [here](https://drive.google.com/file/d/1EfZ29EU-L2e-liykw4qu8p04evyyasXu/view?usp=sharing)
+    - Click [here](https://www.google.com/maps/d/edit?mid=1yGawQW7sE9jszENz_i2jw0zcUuMz8J4&usp=sharing) to view a sample of 10,000 police stop addresses mapped
 - [License](LICENSE)
