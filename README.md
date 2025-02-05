@@ -4,7 +4,7 @@ This project uses Python with Pandas and Numpy to analyze the San Diego Police D
 The only libraries you'll have to download are Pandas and Numpy. Please use the resources listed below!
 
 ## Table of Contents
-- [Dataset]( )
+- [Dataset](https://github.com/k-anisha/SDPD-Police-Stops-Analysis-by-Region/blob/main/SDPD_data.zip)
 - [Dependencies]( )
 - [Project Structure]( )
 - [Analysis]( )
